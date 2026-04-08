@@ -1,4 +1,4 @@
-// Name: Yakup Emre Çelebi, Section : 2, ID: 22302267, Department: Computer Science
+// Name: Yakup Emre Çelebi, Department: Computer Science
 #ifndef TIMETRAVELENGINE_H
 #define TIMETRAVELENGINE_H
 
