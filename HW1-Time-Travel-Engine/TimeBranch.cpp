@@ -1,4 +1,4 @@
-// Name: Yakup Emre Çelebi, Section : 2, ID: 22302267, Department: Computer Science
+// Name: Yakup Emre Çelebi, Department: Computer Science
 #include "TimeBranch.h"
 
 TimeBranch::TimeBranch(int id, string startLoc, int pastCap, int futureCap)
