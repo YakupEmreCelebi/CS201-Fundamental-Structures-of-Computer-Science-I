@@ -1,4 +1,3 @@
-// Name: Yakup Emre, Surname: Çelebi,  ID: 22302267, Department:Computer Science,  Section: 2
 
 #include "BilkentTourism.h"
 #include <iostream>
